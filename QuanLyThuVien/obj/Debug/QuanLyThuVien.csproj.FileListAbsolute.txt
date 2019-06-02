@@ -1,0 +1,84 @@
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\ResolveAssemblyReference.cache
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\TTN\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\TTN\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+D:\TTN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmCapnhatDocGia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmCapNhatLinhVuc.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmCapNhatSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDoiMatKhau.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMain.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmTaoTaiKhoan.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmHelp.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmCapNhatThongTinMuon.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmPhieuMuonQuaHan.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmCapnhatDocGia.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmCapNhatLinhVuc.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmCapNhatSach.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDoiMatKhau.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmHelp.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMain.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmTaoTaiKhoan.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmCapNhatThongTinMuon.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmPhieuMuonQuaHan.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\D2T\Downloads\example-master\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
